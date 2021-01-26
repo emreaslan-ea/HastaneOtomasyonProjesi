@@ -1,5 +1,5 @@
 # HastaneOtomasyonProjesi
- Günümüz Türkiye Cumhuriyeti Sağlık Bakanlığı resmii uygulaması olan MHRS uygulamasının bir benzerini yapmayı denedim 
+ Günümüz Türkiye Cumhuriyeti Sağlık Bakanlığı resmi uygulaması olan MHRS uygulamasının bir benzerini yapmayı denedim 
 Sistem Hasta , Doktor, Asistan olmak üzere üç ayrı girişten oluşmaktadır. 
 Hasta randevu alabilir dilerse iptal edebilir, özel şikayetini ve randevusuna özel doktoru ve gününü seçebilir
 Doktor kişisel bilgilerini değiştirmek dışında kendi boş vaktine uygun randevu boşluğu oluşturabilir. Hasta şikayetlerini değerlendirebilir.
